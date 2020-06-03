@@ -1,3 +1,5 @@
+# Indigtal Lesson 1
+
 ## function that then uses player object to display "message" variable in the minecraft chat
 def on_chat():
     player.say(message)
