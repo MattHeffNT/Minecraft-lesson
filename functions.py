@@ -15,9 +15,9 @@ def stop():
 
 # hairyman function
 def hairyman():
-        mobs.spawn(mobs.monster(ZOMBIE), player.position())
-        mobs.spawn(mobs.monster(ZOMBIE), player.position())
-        mobs.spawn(mobs.monster(ZOMBIE), player.position())
+    mobs.spawn(mobs.monster(ZOMBIE), player.position())
+    mobs.spawn(mobs.monster(ZOMBIE), player.position())
+    mobs.spawn(mobs.monster(ZOMBIE), player.position())
 
 
 # when the game starts display the messages below to the player       
